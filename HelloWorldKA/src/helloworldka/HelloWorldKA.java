@@ -15,11 +15,7 @@ public class HelloWorldKA {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
-        
-        for (int i = 1; i <= 10; i++ ){
-            System.out.println(i);
-        }
+        //lmao 
     }
     
 }
