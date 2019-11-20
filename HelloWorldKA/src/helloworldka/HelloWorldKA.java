@@ -17,7 +17,7 @@ public class HelloWorldKA {
     public static void main(String[] args) {
         //lmao
 
-        System.out.println("LMAO you got hacked.")
+        System.out.println("LMAO you got hacked.");
 
     }
     
