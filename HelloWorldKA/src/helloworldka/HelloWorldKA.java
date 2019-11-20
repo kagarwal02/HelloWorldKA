@@ -15,7 +15,10 @@ public class HelloWorldKA {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //lmao 
+        //lmao
+
+        System.out.println("LMAO you got hacked.")
+
     }
     
 }
